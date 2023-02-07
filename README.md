@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # welcome stranger...
+### 안녕하세요, 신지웅입니다. 웹개발에 중점을 두고 작업하고 있습니다.
+### Hello, this is Jiwoong Shinn. Mostly working on web development.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnjiwoong&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=shinnjiwoong&show_icons=true">
