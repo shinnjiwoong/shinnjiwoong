@@ -24,4 +24,3 @@ Mostly working on music and web projects, based in Seoul.<br>
 Try to make beautiful experiences through web technologies.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinnjiwoong&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=shinnjiwoong&show_icons=true">
